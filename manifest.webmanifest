@@ -2,7 +2,7 @@
   "name": "BALANC Enterprise Management Application",
   "short_name": "BALANC",
   "description": "Aplicación de Gestión Empresarial flexible y escalable para negocios de todos los tamaños que ofrece gestión inteligente de los negocios.",
-  "theme_color": "#259983",
+  "theme_color": "#209569",
   "background_color": "#1a4740",
   "display": "standalone",
   "scope": "./",
